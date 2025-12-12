@@ -1,12 +1,12 @@
 [
   {
-    "id": "1765530352721",
+    "id": "1765539338752",
     "title": "test",
     "description": "test",
-    "requirements": "test",
-    "benefits": "test",
+    "requirements": "",
+    "benefits": "",
     "location": "Poličná",
     "published": true,
-    "createdAt": "2025-12-12T09:05:52.721Z"
+    "createdAt": "2025-12-12T11:35:38.752Z"
   }
 ]
