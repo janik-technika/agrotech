@@ -2,21 +2,21 @@
   {
     "id": "1",
     "name": "Ječmen",
-    "price": "520,-",
+    "price": "700",
     "unit": "Kč/q",
     "order": 1
   },
   {
     "id": "2",
     "name": "Pšenice",
-    "price": "600,-",
+    "price": "700",
     "unit": "Kč/q",
     "order": 2
   },
   {
     "id": "3",
     "name": "Pelety",
-    "price": "530",
+    "price": "530,-",
     "unit": "Kč/q",
     "order": 3
   }
