@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Ječmen",
+    "price": "520",
+    "unit": "Kč/q včetně DPH ",
+    "order": 1
+  },
+  {
+    "id": "2",
+    "name": "Pšenice",
+    "price": "600",
+    "unit": "Kč/q včetně DPH",
+    "order": 2
+  },
+  {
+    "id": "3",
+    "name": "Pelety",
+    "price": "530",
+    "unit": "Kč/q včetně DPH",
+    "order": 3
+  }
+]
