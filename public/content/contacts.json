@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "name": "Ing. Jindřich Šnejdrla",
+    "role": "ředitel",
+    "phone": "777 171 740",
+    "email": "snejdrla@agropolicna.cz",
+    "highlight": true,
+    "order": 1
+  },
+  {
+    "id": "2",
+    "name": "Jindřich Šnejdrla",
+    "role": "mechanizátor",
+    "phone": "777 676 725",
+    "email": "j.snejdrla@email.cz",
+    "order": 2
+  },
+  {
+    "id": "3",
+    "name": "Jakub Šedý",
+    "role": "zootechnik",
+    "phone": "731 814 910",
+    "email": "sedy@agropolicna.cz",
+    "order": 3
+  },
+  {
+    "id": "4",
+    "name": "Ing. Ludmila Pernická",
+    "role": "evidence půdy, výplata pachtovného",
+    "phone": "731 913 365",
+    "email": "pernicka@agropolicna.cz",
+    "order": 4
+  },
+  {
+    "id": "5",
+    "name": "Petr Šnejdrla",
+    "role": "čerpací stanice",
+    "phone": "777 711 647",
+    "email": "petr.snejdrla@agropolicna.cz",
+    "order": 5
+  },
+  {
+    "id": "6",
+    "name": "Jana Patočková",
+    "role": "ekonom",
+    "phone": "773 586 206",
+    "email": "patockova@agropolicna.cz",
+    "order": 6
+  },
+  {
+    "id": "7",
+    "name": "Dana Krátká",
+    "role": "účtárna",
+    "phone": "605 132 306",
+    "email": "kratka@agropolicna.cz",
+    "order": 7
+  }
+]
