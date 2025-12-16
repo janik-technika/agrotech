@@ -1,30 +1,23 @@
 [
   {
     "id": "1",
-    "name": "Ječmen",
-    "price": "700",
-    "unit": "Kč/q",
+    "name": "Ječmen ",
+    "price": "520,-",
+    "unit": "Kč/q včetně DPH",
     "order": 1
   },
   {
     "id": "2",
     "name": "Pšenice",
-    "price": "700",
-    "unit": "Kč/q",
+    "price": "600,- ",
+    "unit": "Kč/q včetně DPH",
     "order": 2
   },
   {
     "id": "3",
     "name": "Pelety",
-    "price": "530",
-    "unit": "Kč/q",
+    "price": "530,- ",
+    "unit": "Kč/q včetně DPH ",
     "order": 3
-  },
-  {
-    "id": "1765804235157",
-    "name": "test",
-    "price": "",
-    "unit": "Kč/q",
-    "order": 4
   }
 ]
