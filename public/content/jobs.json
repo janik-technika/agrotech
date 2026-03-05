@@ -1,12 +1,22 @@
 [
   {
+    "id": "1772712776321",
+    "title": "Mzdová/ý účetní, ekonom/ka ",
+    "description": "kompletní vedení podvojného účetnictví a zajištění ekonomické agendy pro zemědělskou společnost\n(SW HORRY)\n\n– měsíční zpracování DPH včetně kontrolního hlášení\n\n– přihlašování a odhlašování zaměstnanců na ČSSZ a ZP\n\n– zpracovávání mezd pro cca 30 zaměstnanců\n\n– účetní závěrky, zpracování a sestavování účetních výkazů\n\n– kalkulace nákladů\n\n– vedení stájového registru, hlášení do Ústřední evidence ČMSCH ve spolupráci se zootechnikem\n\n– spolupráce s auditory a daňovými poradci",
+    "requirements": "\nVŠ/SŠ ekonomického zaměření v oboru podnikové finance/finanční management/účetnictví\n\n– znalost zákoníku práce, mzdového účetnictví a podvojného účetnictví\n\n– praxe v oblasti zemědělské ekonomiky výhodou\n\n– znalost informačního systému SW HORRY výhodou",
+    "benefits": "– přátelský kolektiv\n\n– 8 hodinová pracovní doba\n\n– 5 týdnů dovolené – výhodný mobilní tarif k soukromým účelům i pro rodinné příslušníky\n\n– stravenkový paušál\n\n– bonus ke mzdě během roku",
+    "location": "Poličná",
+    "published": true,
+    "createdAt": "2026-03-05T12:12:56.321Z"
+  },
+  {
     "id": "1769585561485",
     "title": "ZOOTECHNIK",
     "description": "Hledáme zootechnika/zootechničku na mléčnou farmu Lhota u Valašského Meziříčí .\n\nVHODNÉ I PRO ABSOLVENTY zemědělských škol!\nZkušenost v provozu velkou výhodou ! Péče asi o  200 ks dojnic, 200 ks mladého dobytka, řízení provozu (cca 6 zaměstnanců)\n\n",
     "requirements": "• Základní vědomosti o mléčném skotu, masném skotu \n• Kladný vztah ke zvířatům.\n• Ochota pracovat v kanceláři i venku.\n• Řidičský průkaz skupiny B.\n• Min. vzdělání - maturita.\n",
     "benefits": "- Stabilní zaměstnání na plný úvazek.\n• Možnost profesního rozvoje.\n• Mzda od 35 000 + prémie \n• Benefity: 5 týdnů dovolené, příspěvek na stravování, zajištění obědů přímo na pracovišti, služební vůz, další benefity během roku",
     "location": "Farma Lhota u Choryně ",
-    "published": true,
+    "published": false,
     "createdAt": "2026-01-28T07:32:41.485Z"
   },
   {
@@ -26,7 +36,7 @@
     "requirements": "\nPožadujeme: řidičský průkaz skupiny B,řidičský průkaz skupiny T výhodou; vzdělání v oboru výhodou ",
     "benefits": "25 dní dovolené, příspěvek na stravování, popř. příspěvek na dopravu, další benefity během roku",
     "location": "Poličná - farma Lhota ",
-    "published": true,
+    "published": false,
     "createdAt": "2025-12-15T13:11:01.197Z"
   }
 ]
