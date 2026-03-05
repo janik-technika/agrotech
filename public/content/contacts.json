@@ -17,14 +17,6 @@
     "order": 2
   },
   {
-    "id": "3",
-    "name": "Jakub Šedý",
-    "role": "zootechnik",
-    "phone": "731 814 910",
-    "email": "sedy@agropolicna.cz",
-    "order": 3
-  },
-  {
     "id": "4",
     "name": "Ing. Ludmila Pernická",
     "role": "evidence půdy, výplata pachtovného",
@@ -67,9 +59,25 @@
   {
     "id": "1769586007235",
     "name": "Ing. Michaela Matysková ",
-    "role": "pomocný zootechnik ",
+    "role": "zootechnik ",
     "phone": "770394774",
     "email": "matyskova@agropolicna.cz ",
     "order": 9
+  },
+  {
+    "id": "1772712982425",
+    "name": "Alena Boháčová ",
+    "role": "zootechnik ",
+    "phone": "",
+    "email": "bohacova@agropolicna.cz",
+    "order": 10
+  },
+  {
+    "id": "1772712985039",
+    "name": "",
+    "role": "",
+    "phone": "",
+    "email": "",
+    "order": 11
   }
 ]
