@@ -28,7 +28,7 @@
     "id": "5",
     "name": "Radek Bátrla",
     "role": "čerpací stanice",
-    "phone": "776084292",
+    "phone": "776 084 292",
     "email": "petr.snejdrla@agropolicna.cz",
     "order": 5
   },
@@ -52,7 +52,7 @@
     "id": "1766135124632",
     "name": "Dana Krátká ",
     "role": "kontakt pro fakturace ",
-    "phone": "605132306",
+    "phone": "605 132 306",
     "email": "kratka@agropolicna.cz ",
     "order": 8
   },
@@ -60,7 +60,7 @@
     "id": "1772712982425",
     "name": "Alena Boháčová ",
     "role": "zootechnik ",
-    "phone": "607189530, 770318686",
+    "phone": "607189 530, 770 318 686",
     "email": "bohacova@agropolicna.cz",
     "order": 10
   },
@@ -68,7 +68,7 @@
     "id": "1788413914402",
     "name": "Petr Šnejdrla",
     "role": "pomocný zootechnik",
-    "phone": "777711647",
+    "phone": "777 711 647",
     "email": "matyskova@agropolicna.cz",
     "order": 11
   }
