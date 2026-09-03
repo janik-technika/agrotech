@@ -63,5 +63,13 @@
     "phone": "607189530, 770318686",
     "email": "bohacova@agropolicna.cz",
     "order": 10
+  },
+  {
+    "id": "1788413914402",
+    "name": "Petr Šnejdrla",
+    "role": "pomocný zootechnik",
+    "phone": "777711647",
+    "email": "matyskova@agropolicna.cz",
+    "order": 11
   }
 ]
