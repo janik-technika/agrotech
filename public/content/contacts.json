@@ -36,7 +36,7 @@
     "id": "6",
     "name": "Irena Vaňková",
     "role": "ekonomka/mzdová účetní",
-    "phone": "",
+    "phone": "604604729",
     "email": "vankova@agropolicna.cz",
     "order": 6
   },
@@ -67,9 +67,25 @@
   {
     "id": "1788413914402",
     "name": "Petr Šnejdrla",
-    "role": "pomocný zootechnik",
+    "role": "",
     "phone": "777 711 647",
-    "email": "matyskova@agropolicna.cz",
+    "email": "",
     "order": 11
+  },
+  {
+    "id": "1794993708787",
+    "name": "Ing. Eliška Hanzelková ",
+    "role": "agronomka",
+    "phone": "778066113",
+    "email": "hanzelkova@agropolicna.cz",
+    "order": 12
+  },
+  {
+    "id": "1794993819866",
+    "name": "Ing. Tomáš Wiszczor",
+    "role": "zootechnik",
+    "phone": "",
+    "email": "matyskova@agropolicna.cz",
+    "order": 13
   }
 ]
